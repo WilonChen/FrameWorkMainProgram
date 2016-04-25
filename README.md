@@ -1,0 +1,2 @@
+# FrameWorkMainProgram
+绕过AppStore进行更新主程序
